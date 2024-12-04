@@ -1,5 +1,5 @@
-import Header from './Header'
-import ProductsList from './ProductsList'
+import Header from './Header';
+import ProductsList from './ProductsList';
 
 const products = [
   {
